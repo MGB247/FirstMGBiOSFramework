@@ -12,7 +12,7 @@ Pod::Spec.new do |spec|
   spec.version      = "0.0.1"
   spec.summary      = "MGBs First Pod :D."
   spec.description  = "Testing out Cocoapods publishing."
-  spec.homepage     = "http://EXAMPLE/FirstMGBiOSFramework"
+  spec.homepage     = "https://github.com/MGB247/FirstMGBiOSFramework"
   spec.license      = "MIT"
   spec.author             = { "MGB247" => "ghayasbaig247@gmail.com" }
   spec.platform     = :ios, "11.0"
